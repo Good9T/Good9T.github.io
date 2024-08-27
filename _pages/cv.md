@@ -28,9 +28,8 @@ research experience
   
 Skills
 ======
-* programing
-* experiment conducting
-* paper writing
+* programing languages: Python, C++
+* languages: Chinese, English (IELTS 7.5)
 
 [**PDF CV**](../assets/curriculum_vitae.pdf)
 
