@@ -16,13 +16,13 @@ Education
 
 research experience
 ======
-* 2021-2023: 
-  * Project name: Multi-type attention for solving multi-depot vehicle routing problems
+* Multi-type attention for solving multi-depot vehicle routing problems: 
+  * Years: 2021-2023
   * Duties included: determined the research content, searched related works, conducted all experiments, developed a deep neural network, provided a depot rotation augmentation, completed manuscript writing, completed manuscript revision.
   * Supervisor: Professor Yunyun Niu
 
-* 2023-2024:
-  * Project name: Solving pick-up and delivery problems via deep reinforcement learning based symmetric neural optimization
+* Solving pick-up and delivery problems via deep reinforcement learning based symmetric neural optimization:
+  * Years: 2023-2024 
   * Duties included: determined the research content, searched related works, conducted all experiments, developed a deep neural network, provided a depot rotation augmentation, completed manuscript writing, completed manuscript revision.
   * Supervisor: Professor Yunyun Niu
   
