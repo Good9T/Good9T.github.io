@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2024-06-21-multi-type-attention-for-solving-multi-depot-vehicle-routing-problems
 date: 2024-06-21
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
-paperurl: '(https://ieeexplore.ieee.org/document/10568457)'
+paperurl: '(https://good9t.github.io/files/MD-MTA.pdf)'
 ---
 
