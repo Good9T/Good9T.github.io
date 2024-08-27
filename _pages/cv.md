@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in China University of Geoscience (Beijing), 2021-2024
+* B.S. in China University of Geoscience (Beijing), 2017-2021
 
-Work experience
+research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2023: 
+  * Project name: Multi-type attention for solving multi-depot vehicle routing problems
+  * Duties included: determined the research content, searched related works, conducted all experiments, developed a deep neural network, provided a depot rotation augmentation, completed manuscript writing, completed manuscript revision.
+  * Supervisor: Professor Yunyun Niu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-2024:
+  * Project name: Solving pick-up and delivery problems via deep reinforcement learning based symmetric neural optimization
+  * Duties included: determined the research content, searched related works, conducted all experiments, developed a deep neural network, provided a depot rotation augmentation, completed manuscript writing, completed manuscript revision.
+  * Supervisor: Professor Yunyun Niu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* programing
+* experiment conducting
+* paper writing
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
