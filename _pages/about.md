@@ -9,4 +9,4 @@ redirect_from:
 
 I graduated from the School of Information Engineering in China University of Geosciences (Beijing) as a Master of Engineering.
 
-You can find my CV here[Jinqi Li's Curriculum Vitae](../assets/curriculum_vitae.pdf).
+You can find my CV here [CV](../assets/curriculum_vitae.pdf).
