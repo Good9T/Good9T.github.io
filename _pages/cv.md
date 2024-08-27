@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in China University of Geoscience (Beijing), 2021-2024
-* B.S. in China University of Geoscience (Beijing), 2017-2021
+* M.Eng. in China University of Geoscience (Beijing), 2021-2024
+* B.Eng. in China University of Geoscience (Beijing), 2017-2021
 
 research experience
 ======
@@ -31,6 +31,8 @@ Skills
 * programing
 * experiment conducting
 * paper writing
+
+[**PDF CV**](../assets/curriculum_vitae.pdf)
 
 Publications
 ======
