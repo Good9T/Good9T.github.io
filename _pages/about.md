@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
 I graduated from the School of Information Engineering in China University of Geosciences (Beijing).
 I received the M.Eng and B.Eng from School of Information Engineering, CUGB. 
 
